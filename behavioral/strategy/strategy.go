@@ -8,9 +8,9 @@ type jobStrategy interface {
 	getTitle() string
 }
 
+// Parent Struct
 type job struct {
-	strategy jobStrategy
-	title    string
+	title string
 }
 
 func (j *job) introduce() {
@@ -21,6 +21,7 @@ func (j *job) getTitle() string {
 	return j.title
 }
 
+// Child Struct
 type softwareEngineer struct {
 	job
 }
@@ -29,6 +30,7 @@ func (job *softwareEngineer) do() {
 	fmt.Println("I'm coding...")
 }
 
+// Child Struct
 type chef struct {
 	job
 }
@@ -37,6 +39,7 @@ func (job *chef) do() {
 	fmt.Println("I'm cooking...")
 }
 
+// Child Struct
 type student struct {
 	job
 }
