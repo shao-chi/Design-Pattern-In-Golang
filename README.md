@@ -9,7 +9,7 @@
 | Singleton | Memento | Facade |
 |  | Observer | Flyweight |
 |  | State | Proxy |
-|  | Strategy |  |
+|  | [Strategy](./behavioral/strategy/) |  |
 |  | Template Method |  |
 |  | Visitor |  |
 
