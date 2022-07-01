@@ -5,7 +5,7 @@
 | Factory Method | Iterator | Composite |
 | Abstract Factory | Chain of Responsibility | Adapter |
 | Builder | Command | Bridge |
-| Prototype | Mediator | Decorator |
+| Prototype | Mediator | [Decorator](./structural/decorator/) |
 | Singleton | Memento | Facade |
 |  | Observer | Flyweight |
 |  | State | Proxy |
