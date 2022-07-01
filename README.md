@@ -6,7 +6,7 @@
 | Abstract Factory | Chain of Responsibility | Adapter |
 | Builder | Command | Bridge |
 | Prototype | Mediator | [Decorator](./structural/decorator/) |
-| Singleton | Memento | Facade |
+| [Singleton](./creational/singleton/) | Memento | Facade |
 |  | Observer | Flyweight |
 |  | State | Proxy |
 |  | [Strategy](./behavioral/strategy/) |  |
