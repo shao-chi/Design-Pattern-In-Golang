@@ -7,7 +7,7 @@
 | Builder | Command | Bridge |
 | Prototype | Mediator | [Decorator](./structural/decorator/) |
 | [Singleton](./creational/singleton/) | Memento | Facade |
-|  | Observer | Flyweight |
+|  | [Observer](./behavioral/observer/) | Flyweight |
 |  | State | Proxy |
 |  | [Strategy](./behavioral/strategy/) |  |
 |  | Template Method |  |
