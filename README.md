@@ -8,7 +8,7 @@
 | Prototype | Mediator | [Decorator](./structural/decorator/) |
 | [Singleton](./creational/singleton/) | Memento | Facade |
 |  | [Observer](./behavioral/observer/) | Flyweight |
-|  | State | Proxy |
+|  | [State](./behavioral/state/) | Proxy |
 |  | [Strategy](./behavioral/strategy/) |  |
 |  | Template Method |  |
 |  | Visitor |  |
