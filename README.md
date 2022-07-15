@@ -2,7 +2,7 @@
 
 | Creational Patterns | Behavioral Patterns | Structural Patterns |
 |---------------------|---------------------|---------------------|
-| Factory Method | Iterator | Composite |
+| [Factory Method](./creational/factoryMethod/) | Iterator | Composite |
 | Abstract Factory | Chain of Responsibility | Adapter |
 | Builder | Command | Bridge |
 | Prototype | Mediator | [Decorator](./structural/decorator/) |
